@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-02T21:06:42 IST" name="Default suite" finished-at="2022-12-02T21:06:57 IST" duration-ms="15030">
+  <suite started-at="2022-12-08T21:54:58 IST" name="Default suite" finished-at="2022-12-08T21:55:13 IST" duration-ms="14897">
     <groups>
     </groups>
-    <test started-at="2022-12-02T21:06:42 IST" name="Default test" finished-at="2022-12-02T21:06:57 IST" duration-ms="15030">
-      <class name="mbile_automation_new.new_automation_mobile.Scroll_down">
-        <test-method is-config="true" signature="init()[pri:0, instance:mbile_automation_new.new_automation_mobile.Scroll_down@647e447]" started-at="2022-12-02T21:06:42 IST" name="init" finished-at="2022-12-02T21:06:53 IST" duration-ms="11556" status="PASS">
+    <test started-at="2022-12-08T21:54:58 IST" name="Default test" finished-at="2022-12-08T21:55:13 IST" duration-ms="14897">
+      <class name="mbile_automation_new.new_automation_mobile.Landscape">
+        <test-method is-config="true" signature="init()[pri:0, instance:mbile_automation_new.new_automation_mobile.Landscape@28eaa59a]" started-at="2022-12-08T21:54:58 IST" name="init" finished-at="2022-12-08T21:55:10 IST" duration-ms="11564" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="testcase3()[pri:0, instance:mbile_automation_new.new_automation_mobile.Scroll_down@647e447]" started-at="2022-12-02T21:06:53 IST" name="testcase3" finished-at="2022-12-02T21:06:57 IST" duration-ms="3414" status="PASS">
+        <test-method signature="testcase5()[pri:0, instance:mbile_automation_new.new_automation_mobile.Landscape@28eaa59a]" started-at="2022-12-08T21:55:10 IST" name="testcase5" finished-at="2022-12-08T21:55:13 IST" duration-ms="3244" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testcase3 -->
-      </class> <!-- mbile_automation_new.new_automation_mobile.Scroll_down -->
+        </test-method> <!-- testcase5 -->
+      </class> <!-- mbile_automation_new.new_automation_mobile.Landscape -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
